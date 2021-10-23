@@ -1,4 +1,4 @@
-### <em>Hello, World</em> ###
+### <em>Ozan Lütfü Akaydın</em> ###
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" align="right" width="300" height="200">
 
 #### <u>Reach out to me:</u> ####
