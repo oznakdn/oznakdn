@@ -1,5 +1,5 @@
-### <em>Ozan Lütfü Akaydın</em> ###
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Merhaba!;Ben+Ozan+Lütfü+Akaydın.;)](https://git.io/typing-svg)
 
 #### <u>Reach out to me:</u> ####
 
