@@ -16,6 +16,8 @@
 <img src="https://stickker.net/wp-content/uploads/2021/04/020-CSharp-600x600.png" width="40">
 <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="120">
 <img src="https://dataera.com.tr/wp-content/uploads/2018/07/mssql-logo-1-820x450.jpg" width="120">
+<img src="https://webapp.io/blog/content/images/2019/11/postgres.png" width="120">
+
 
 
 
