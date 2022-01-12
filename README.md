@@ -25,6 +25,8 @@
 <img src="https://miro.medium.com/max/610/1*-kLHasEkk2EK7aSQPlq8vA.png" width="100">
 <img src="https://nhibernate.info/images/posts/2009/08/29/ninject-logo.png" width="135">
 <img src="https://raw.githubusercontent.com/FluentValidation/FluentValidation/gh-pages/assets/images/logo/fluent-validation-logo.png" width="130">
+<img src="https://miro.medium.com/max/700/1*VstWEsGPYwhDG2-KOBVrNQ.png" width="130">
+
 
 <hr>
 
