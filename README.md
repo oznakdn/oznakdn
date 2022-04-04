@@ -12,11 +12,11 @@
 
 
 #### <u>Tech-Lang I Use:</u> ####
-<img src="https://pbs.twimg.com/profile_images/1278344911847223297/k1ginRMI.jpg" width="40">
+<span><img src="https://pbs.twimg.com/profile_images/1278344911847223297/k1ginRMI.jpg" width="40"></span>
 <img src="https://stickker.net/wp-content/uploads/2021/04/020-CSharp-600x600.png" width="40">
 <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="120">
 <img src="https://dataera.com.tr/wp-content/uploads/2018/07/mssql-logo-1-820x450.jpg" width="120">
-<img src="https://webapp.io/blog/content/images/2019/11/postgres.png" width="120">
+<img src="https://webapp.io/blog/content/images/2019/11/postgres.png" width="120"></span>
 
 
 
@@ -24,17 +24,17 @@
 <hr>
 
 #### <u>Frameworks-Libraries I Use:</u> ####
-<img src="https://miro.medium.com/max/610/1*-kLHasEkk2EK7aSQPlq8vA.png" width="100">
+<span><img src="https://miro.medium.com/max/610/1*-kLHasEkk2EK7aSQPlq8vA.png" width="100"></span>
 <img src="https://nhibernate.info/images/posts/2009/08/29/ninject-logo.png" width="135">
 <img src="https://raw.githubusercontent.com/FluentValidation/FluentValidation/gh-pages/assets/images/logo/fluent-validation-logo.png" width="130">
-<img src="https://miro.medium.com/max/700/1*VstWEsGPYwhDG2-KOBVrNQ.png" width="130">
+<img src="https://miro.medium.com/max/700/1*VstWEsGPYwhDG2-KOBVrNQ.png" width="130"></span>
 
 
 <hr>
 
 #### <u>IDE-Editor I Use:</u> ####
-<img src="https://www.wizcase.com/wp-content/uploads/2021/05/visual-studio-logo.jpeg" width="100">
-<img src="https://miro.medium.com/max/720/0*JQ3INI7sdhkF1T3R.png" width="105">
+<span><img src="https://www.wizcase.com/wp-content/uploads/2021/05/visual-studio-logo.jpeg" width="100">
+<img src="https://miro.medium.com/max/720/0*JQ3INI7sdhkF1T3R.png" width="105"></span>
 
 <hr>
 
@@ -46,7 +46,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oznakdn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=oznakdn&color=green)
-
 
 
 
