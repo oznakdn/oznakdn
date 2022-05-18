@@ -58,7 +58,7 @@
 
 #### <u>IDE - Editors:</u> ####
 <span><img src="https://www.wizcase.com/wp-content/uploads/2021/05/visual-studio-logo.jpeg" width="100">
-<img src="https://miro.medium.com/max/720/0*JQ3INI7sdhkF1T3R.png" width="105"></span>
+<img src="https://miro.medium.com/max/720/0*JQ3INI7sdhkF1T3R.png" width="106"></span>
 
 <hr>
 
