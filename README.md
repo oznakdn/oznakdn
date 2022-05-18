@@ -2,13 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello!;+Welcome...;)](https://git.io/typing-svg)
 
 #### <u>Reach out to me:</u> ####
-
-[<img width="22" align="left" src="https://unpkg.com/simple-icons@v5/icons/github.svg"/>][Github]
-[<img width="22" align="left" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg"/>][Linkedin]
-[<img width="22" align="left" src="https://unpkg.com/simple-icons@v5/icons/medium.svg"/>][Medium]
-[<img width="22" align="left" src="https://unpkg.com/simple-icons@v5/icons/stackoverflow.svg"/>][Stackoverflow]
-[<img width="22" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" />][HackerRank]
-[<img width="22" src="https://unpkg.com/simple-icons@v5/icons/codewars.svg" />][CodeWars]
+<!-- [<img width="22" align="left" src="https://unpkg.com/simple-icons@v5/icons/github.svg"/>][Github]-->
+[<img width="30" align="left" src="https://img.icons8.com/nolan/344/github.png"/>][Github]
+[<img width="30" align="left" src="https://img.icons8.com/color/344/linkedin.png"/>][Linkedin]
+[<img width="30" align="left" src="https://img.icons8.com/color-glass/344/medium-logo.png"/>][Medium]
+[<img width="25" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/800px-Stack_Overflow_icon.svg.png"/>][Stackoverflow]
+[<img width="36" src="https://store-images.s-microsoft.com/image/apps.54814.8be4d38c-48bd-42d6-ac58-f3e5eed73672.97f20738-86a1-49d8-9b95-961dba5aac80.dcf21c85-94f3-4433-a7bf-84328fe63f2c.png" />][HackerRank]
+[<img width="30" src="https://blog.codewars.com/logo.png?h=cbc5fc2fb90154f31e3eb4ed3d3d572d497fa0522469e8f186562c4365b43db2" />][CodeWars]
 
 <hr>
 
