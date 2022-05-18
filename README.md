@@ -14,11 +14,14 @@
 
 
 #### <u>Languages - Markup Languages:</u> ####
-<span><img src="https://pbs.twimg.com/profile_images/1278344911847223297/k1ginRMI.jpg" width="55"></span>
-<img src="https://stickker.net/wp-content/uploads/2021/04/020-CSharp-600x600.png" width="55">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" width="50">
-<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="140">
-<img src="https://www.bycmedia.com/blog/images/upload/3739152102020.png" width="60"></span>
+<span><img src="https://cdn.blob.lionpham.com/uploads/2016/08/c-Sharp.png" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="70"></span>
+<img src="https://pbs.twimg.com/profile_images/1278344911847223297/k1ginRMI.jpg" width="70">
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/96-html5-256.png" width="68">
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" width="67">
+<img src="https://www.bycmedia.com/blog/images/upload/3739152102020.png" width="85"></span>
+<img src="https://www.rswebsols.com/wp-content/uploads/2020/03/jquery.jpg" width="102">
+
 
 
 <hr>
@@ -29,8 +32,8 @@
 <hr>
 
 #### <u>Testing for Api:</u> ####
-<span><img src="https://www.luisllamas.es/wp-content/uploads/2017/10/postman-logo.png" width="120">
-<img src="https://koraypeker.com/wp-content/uploads/2019/02/swagger_logo.png" width="130"></span>
+<span><img src="https://www.luisllamas.es/wp-content/uploads/2017/10/postman-logo.png" width="100">
+<img src="https://koraypeker.com/wp-content/uploads/2019/02/swagger_logo.png" width="187"></span>
 
 
 <hr>
@@ -47,7 +50,7 @@
 <hr>
 
 #### <u>ORM:</u> ####
-<span><img src="https://gordon-allen.github.io/images/entityframeworkcore_logo.png" width="150"></span>
+<span><img src="https://miro.medium.com/max/591/1*19hDux91qpoShfe7tXE5xg.png" width="130"></span>
 
 
 
