@@ -7,8 +7,7 @@
 [<img width="30" align="left" src="https://img.icons8.com/color/344/linkedin.png"/>][Linkedin]
 [<img width="30" align="left" src="https://img.icons8.com/color-glass/344/medium-logo.png"/>][Medium]
 [<img width="25" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/800px-Stack_Overflow_icon.svg.png"/>][Stackoverflow]
-[<img width="27" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />][HackerRank]
-[<img width="30" src="https://blog.codewars.com/logo.png?h=cbc5fc2fb90154f31e3eb4ed3d3d572d497fa0522469e8f186562c4365b43db2" />][CodeWars]
+[<img width="26" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />][HackerRank]
 
 <hr>
 
