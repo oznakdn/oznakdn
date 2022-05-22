@@ -42,6 +42,8 @@
 <span><img src="https://dataera.com.tr/wp-content/uploads/2018/07/mssql-logo-1-820x450.jpg" width="120">
 <img src="https://webapp.io/blog/content/images/2019/11/postgres.png" width="120">
 <img src="https://i.ibb.co/bzZKwJ8/sqlite.png" width="100"></span>
+<img src="https://www.siberdinc.com/wp-content/uploads/2020/11/Microsoft-Azure.png" width="100" height="67"></span>
+
 
 
 
