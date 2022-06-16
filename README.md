@@ -14,8 +14,8 @@
 
 #### <u>Languages - Markup Languages:</u> ####
 <span><img src="https://cdn.blob.lionpham.com/uploads/2016/08/c-Sharp.png" width="70">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="70"></span>
 <img src="https://pbs.twimg.com/profile_images/1278344911847223297/k1ginRMI.jpg" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="70"></span>
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/96-html5-256.png" width="68">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" width="67">
 <img src="https://www.bycmedia.com/blog/images/upload/3739152102020.png" width="85"></span>
