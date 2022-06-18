@@ -20,6 +20,8 @@
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" width="67">
 <img src="https://www.bycmedia.com/blog/images/upload/3739152102020.png" width="85"></span>
 <img src="https://www.rswebsols.com/wp-content/uploads/2020/03/jquery.jpg" width="102">
+<img src="https://cdn.searchenginejournal.com/wp-content/uploads/2019/04/the-seo-guide-to-angular-1520x800.png" width="130">
+
 
 
 
