@@ -12,7 +12,7 @@
 <hr>
 
 
-#### <u>Languages - Markup Languages:</u> ####
+#### <u>Languages - Technologies:</u> ####
 <span><img src="https://cdn.blob.lionpham.com/uploads/2016/08/c-Sharp.png" width="70">
 <img src="https://pbs.twimg.com/profile_images/1278344911847223297/k1ginRMI.jpg" width="70">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="70"></span>
