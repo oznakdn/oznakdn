@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!;+Welcome...;)](https://git.io/typing-svg)
 
 #### <u>Reach out to me:</u> ####
-<!-- [<img width="22" align="left" src="https://unpkg.com/simple-icons@v5/icons/github.svg"/>][Github]-->
+
 [<img width="30" align="left" src="https://img.icons8.com/nolan/344/github.png"/>][Github]
 [<img width="30" align="left" src="https://img.icons8.com/color/344/linkedin.png"/>][Linkedin]
 [<img width="30" align="left" src="https://img.icons8.com/color-glass/344/medium-logo.png"/>][Medium]
@@ -12,15 +12,28 @@
 <hr>
 
 
-#### <u>Languages - Technologies:</u> ####
-<span><img src="https://cdn.blob.lionpham.com/uploads/2016/08/c-Sharp.png" width="70">
-<img src="http://upload.turkcewiki.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/640px-Microsoft_.NET_logo.svg.png" width="70">
-<img src="https://www.htmlgoodies.com/wp-content/uploads/2021/08/TypeScript.png" width="70"></span>
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/96-html5-256.png" width="68">
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" width="67">
-<img src="https://www.bycmedia.com/blog/images/upload/3739152102020.png" width="85"></span>
-<img src="https://www.rswebsols.com/wp-content/uploads/2020/03/jquery.jpg" width="102">
-<img src="https://cdn.searchenginejournal.com/wp-content/uploads/2019/04/the-seo-guide-to-angular-1520x800.png" width="130">
+#### <u>Technologies:</u> ####
+<p>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+
+
+
+
+
+
+
+
+
+</p>
 
 
 
@@ -28,32 +41,36 @@
 <hr>
 
 #### <u>Version Control:</u> ####
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6PGHGgv_2kMZGSCeG__xAlGvphSeMN0_Zc5Wn-lEvguC8ognZL_Wbc9lsA8bQm8hRtk&usqp=CAU" width="100">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+
 
 <hr>
 
 #### <u>Testing for Api:</u> ####
-<span><img src="https://www.luisllamas.es/wp-content/uploads/2017/10/postman-logo.png" width="100">
-<img src="https://koraypeker.com/wp-content/uploads/2019/02/swagger_logo.png" width="187"></span>
-
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
+</p>
 
 <hr>
 
 #### <u>Unit Testing:</u> ####
-<span><img src="https://minhphien.com/wp-content/uploads/2021/02/8-XUnit.png" width="100">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPyqzvoZ4jCT522uxupsna8GkrXWjVzvUCA&usqp=CAU" width="80"></span>
-
+<p>
+<img src="https://static.skillshare.com/uploads/video/thumbnails/edd7e51dc885809f8452315944215cd5/original" width="140" height="40">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPyqzvoZ4jCT522uxupsna8GkrXWjVzvUCA&usqp=CAU" width="140" height="40">
+</p>
 
 <hr>
 
 
 
 #### <u>Databases:</u> ####
-<span><img src="https://dataera.com.tr/wp-content/uploads/2018/07/mssql-logo-1-820x450.jpg" width="120">
-<img src="https://webapp.io/blog/content/images/2019/11/postgres.png" width="120">
-<img src="https://i.ibb.co/bzZKwJ8/sqlite.png" width="100"></span>
-<img src="https://www.siberdinc.com/wp-content/uploads/2020/11/Microsoft-Azure.png" width="100" height="67"></span>
-
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</p>
 
 
 
@@ -61,15 +78,19 @@
 <hr>
 
 #### <u>ORM:</u> ####
-<span><img src="https://miro.medium.com/max/591/1*19hDux91qpoShfe7tXE5xg.png" width="130"></span>
+<p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxE4exLcE7ycwYjEJ4Pfvw-4zJZmfiIOHxQ0JNcp4luTCUZA3-RLRxYArYq5rYct0ArI&usqp=CAU" width="140" height="40">
+</p>
 
 
 
 <hr>
 
 #### <u>IDE - Editors:</u> ####
-<span><img src="https://www.wizcase.com/wp-content/uploads/2021/05/visual-studio-logo.jpeg" width="100">
-<img src="https://miro.medium.com/max/720/0*JQ3INI7sdhkF1T3R.png" width="106"></span>
+<p>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
 
 <hr>
 
