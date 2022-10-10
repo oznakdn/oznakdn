@@ -3,7 +3,6 @@
 
 #### <u>Reach out to me</u> ####
 
-[<img width="30" align="left" src="https://img.icons8.com/nolan/344/github.png"/>][Github]
 [<img width="30" align="left" src="https://img.icons8.com/color/344/linkedin.png"/>][Linkedin]
 [<img width="30" align="left" src="https://img.icons8.com/color-glass/344/medium-logo.png"/>][Medium]
 [<img width="25" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/800px-Stack_Overflow_icon.svg.png"/>][Stackoverflow]
@@ -95,7 +94,7 @@
 
 
 
-[Github]:https://github.com/oznakdn
+
 [Linkedin]:https://www.linkedin.com/in/ozan-l%C3%BCtf%C3%BC-akaydin/
 [Medium]:https://medium.com/@ozanakaydin
 [Stackoverflow]:https://stackoverflow.com/users/15339231/ozanakdn
