@@ -1,11 +1,13 @@
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!;+Welcome...;)](https://git.io/typing-svg)-->
-#### <u>Reach out to me</u> ####
+#### <u>Contact</u> ####
+
 
 [<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][Linkedin]
 [<img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>][Medium]
 [<img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>][Stackoverflow]
 
+
+<br>
 <hr>
 
 
