@@ -1,10 +1,9 @@
 
 #### <u>Contact</u> ####
 
+[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="40"/>][Twitter]
+[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40"/>][Linkedin]
 
-[<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][Linkedin]
-[<img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>][Medium]
-[<img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>][Stackoverflow]
 
 
 <br>
@@ -13,16 +12,20 @@
 
 #### <u>Technology</u> ####
 <p>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" width="40">
+  
+  
+
 
 </p>
 
@@ -31,8 +34,7 @@
 
 #### <u>Version Control</u> ####
 <p>
-<img src="https://logodix.com/logo/646669.png" width="100">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40">
 </p>
 
 <hr>
@@ -57,10 +59,11 @@
 
 #### <u>Database</u> ####
 <p>
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="40">
 </p>
 
 
@@ -79,8 +82,11 @@
 
 #### <u>IDE - Editors</u> ####
 <p>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40">
+  
+  
 </p>
 
 <hr>
@@ -99,7 +105,7 @@
 
 
 
-
+[Twitter]:https://twitter.com/OzanAkaydin29
 [Linkedin]:https://www.linkedin.com/in/ozan-l%C3%BCtf%C3%BC-akaydin/
 [Medium]:https://medium.com/@ozanakaydin
 [Stackoverflow]:https://stackoverflow.com/users/15339231/ozanakdn
