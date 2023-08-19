@@ -32,23 +32,13 @@
 
 <hr>
 
-#### <u>Testing for Api</u> ####
+#### <u>Api Test</u> ####
 <p>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
 </p>
 
 <hr>
-
-#### <u>Unit Testing</u> ####
-<p>
-<img src="https://static.skillshare.com/uploads/video/thumbnails/edd7e51dc885809f8452315944215cd5/original" width="140" height="40">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPyqzvoZ4jCT522uxupsna8GkrXWjVzvUCA&usqp=CAU" width="140" height="40">
-</p>
-
-<hr>
-
-
 
 #### <u>Database</u> ####
 <p>
