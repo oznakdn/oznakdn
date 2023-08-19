@@ -4,11 +4,8 @@
 [<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="40"/>][Twitter]
 [<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40"/>][Linkedin]
 
-
-
 <br>
 <hr>
-
 
 #### <u>Technology</u> ####
 <p>
@@ -23,11 +20,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" width="40">
  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40">-->
-  
-  
-  
-
-
 </p>
 
 
@@ -85,24 +77,32 @@
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40">
-
-  
-  
 </p>
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oznakdn&show_icons=true&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oznakdn&label=Profile%20views&color=0e75b6&style=flat" alt="oznakdn" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oznakdn)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oznakdn&theme=nord" alt="oznakdn" /></a> </p>
 
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznakdn&layout=compact&theme=highcontrast" alt=oznakdn />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oznakdn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=oznakdn&show_icons=true&locale=en&theme=highcontrast" alt="oznakdn" /></p>
 
-![](https://komarev.com/ghpvc/?username=oznakdn&color=green)
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oznakdn&theme=highcontrast" alt="oznakdn" /></p>
 
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/oznakdn">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oznakdn&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oznakdn&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oznakdn&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oznakdn&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oznakdn&theme=algolia" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=oznakdn&theme=react"/>
 
 
 
