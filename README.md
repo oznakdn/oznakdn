@@ -28,6 +28,7 @@
 [![Nuget version](https://img.shields.io/nuget/v/JwtProducer.svg?logo=nuget)](https://www.nuget.org/packages/JwtProducer/)
 
 <hr>
+
 #### <u>Version Control</u> ####
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40">
