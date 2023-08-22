@@ -1,8 +1,8 @@
 
 #### <u>Contact</u> ####
 
-[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="40"/>][Twitter]
-[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40"/>][Linkedin]
+[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="30"/>][Twitter]
+[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30"/>][Linkedin]
 
 <br>
 <hr>
@@ -11,67 +11,33 @@
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" width="40">
- <!--<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40">-->
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40">
+<img src="https://github.com/flathub/com.getpostman.Postman/blob/master/logo-mark.svg" width="40">
 </p>
+<p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxE4exLcE7ycwYjEJ4Pfvw-4zJZmfiIOHxQ0JNcp4luTCUZA3-RLRxYArYq5rYct0ArI&usqp=CAU" width="140" height="40">
+</p>
+
 <hr>
 
 #### <u>Packages</u>
 ###### JwtProducer 
 [![Nuget version](https://img.shields.io/nuget/v/JwtProducer.svg?logo=nuget)](https://www.nuget.org/packages/JwtProducer/)
-
-<hr>
-
-#### <u>Version Control</u> ####
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40">
-</p>
-
-<hr>
-
-#### <u>Api Test</u> ####
-<p>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
-</p>
-
-<hr>
-
-#### <u>Database</u> ####
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="40">
-</p>
-
-
-
-
-<hr>
-
-#### <u>Orm</u> ####
-<p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxE4exLcE7ycwYjEJ4Pfvw-4zJZmfiIOHxQ0JNcp4luTCUZA3-RLRxYArYq5rYct0ArI&usqp=CAU" width="140" height="40">
-</p>
-
-
-
-<hr>
-
-#### <u>IDE - Editors</u> ####
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40">
-</p>
 
 <hr>
 
