@@ -29,9 +29,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40">
 <img src="https://github.com/flathub/com.getpostman.Postman/blob/master/logo-mark.svg" width="40">
 </p>
-<p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxE4exLcE7ycwYjEJ4Pfvw-4zJZmfiIOHxQ0JNcp4luTCUZA3-RLRxYArYq5rYct0ArI&usqp=CAU" width="140" height="40">
-</p>
+
 
 <hr>
 
