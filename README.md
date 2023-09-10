@@ -38,6 +38,10 @@
 #### <u>Packages</u>
 ###### JwtProducer 
 [![Nuget version](https://img.shields.io/nuget/v/JwtProducer.svg?logo=nuget)](https://www.nuget.org/packages/JwtProducer/)
+###### Effective Validator 
+[![Nuget version](https://img.shields.io/nuget/v/Gleeman.EffectiveValidator.svg?logo=nuget)](https://www.nuget.org/packages/Gleeman.EffectiveValidator)
+###### Effective Logger 
+[![Nuget version](https://img.shields.io/nuget/v/Gleeman.EffectiveLogger.svg?logo=nuget)](https://www.nuget.org/packages/Gleeman.EffectiveLogger)
 <hr>
 
 
