@@ -34,14 +34,13 @@
 <hr>
 
 #### <u>Packages</u>
-###### JwtProducer 
-[![Nuget version](https://img.shields.io/nuget/v/JwtProducer.svg?logo=nuget)](https://www.nuget.org/packages/JwtProducer/)
-###### Effective Validator 
-[![Nuget version](https://img.shields.io/nuget/v/Gleeman.EffectiveValidator.svg?logo=nuget)](https://www.nuget.org/packages/Gleeman.EffectiveValidator)
-###### Effective Logger 
-[![Nuget version](https://img.shields.io/nuget/v/Gleeman.EffectiveLogger.svg?logo=nuget)](https://www.nuget.org/packages/Gleeman.EffectiveLogger)
-<hr>
+| Package |  Version | Popularity |
+| ------- | ----- | ----- |
+| `JwtProducer` | [![NuGet](https://img.shields.io/nuget/v/JwtProducer.svg)](https://www.nuget.org/packages/JwtProducer/) | [![Nuget](https://img.shields.io/nuget/dt/JwtProducer.svg)](https://www.nuget.org/packages/JwtProducer/) |
+| `Gleeman.EffectiveValidator` | [![NuGet](https://img.shields.io/nuget/v/Gleeman.EffectiveValidator.svg)](https://www.nuget.org/packages/Gleeman.EffectiveValidator) | [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveValidator.svg)](https://www.nuget.org/packages/Gleeman.EffectiveValidator) |
+| `Gleeman.EffectiveLogger` | [![NuGet](https://img.shields.io/nuget/v/Gleeman.EffectiveLogger.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger) | [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger) |
 
+<hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oznakdn&theme=nord" alt="oznakdn" /></a> </p>
 
