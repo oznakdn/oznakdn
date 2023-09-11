@@ -45,7 +45,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oznakdn&theme=nord" alt="oznakdn" /></a> </p>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznakdn&layout=compact&theme=highcontrast" alt=oznakdn />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=oznakdn&show_icons=true&locale=en&theme=highcontrast" alt="oznakdn" /></p>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oznakdn&theme=highcontrast" alt="oznakdn" /></p>
+
 
 [Twitter]:https://twitter.com/OzanAkaydin29
 [Linkedin]:https://www.linkedin.com/in/ozan-l%C3%BCtf%C3%BC-akaydin/
