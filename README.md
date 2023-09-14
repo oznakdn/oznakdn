@@ -12,7 +12,7 @@
 <hr>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,jquery,sqlite,postgres,mysql,mongodb,redis,rabbitmq,postman,git,docker,visualstudio,vscode&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,jquery,sqlite,postgres,mysql,mongodb,redis,rabbitmq,postman,git,docker,unity,visualstudio,vscode&perline=15)](https://skillicons.dev)
 <br>
 <hr>
 
