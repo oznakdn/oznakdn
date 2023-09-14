@@ -10,7 +10,7 @@
 <br>
 <hr>
 
-## Packages
+## Nuget Packages
 | Package |  Version | Popularity |
 | ------- | ----- | ----- |
 | <a href="https://github.com/oznakdn/JwtGenerator">`Gleeman.JwtGenerator`</a> | [![NuGet](https://img.shields.io/nuget/v/JwtProducer.svg)](https://www.nuget.org/packages/Gleeman.JwtGenerator/) | [![Nuget](https://img.shields.io/nuget/dt/Gleeman.JwtGenerator.svg)](https://www.nuget.org/packages/Gleeman.JwtGenerator/) |
