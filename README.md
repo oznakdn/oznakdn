@@ -12,7 +12,7 @@
 ## <u>Packages</u>
 | Package |  Version | Popularity |
 | ------- | ----- | ----- |
-| `JwtProducer` | [![NuGet](https://img.shields.io/nuget/v/JwtProducer.svg)](https://www.nuget.org/packages/JwtProducer/) | [![Nuget](https://img.shields.io/nuget/dt/JwtProducer.svg)](https://www.nuget.org/packages/JwtProducer/) |
+| `Gleeman.JwtGenerator` | [![NuGet](https://img.shields.io/nuget/v/JwtProducer.svg)](https://www.nuget.org/packages/Gleeman.JwtGenerator/) | [![Nuget](https://img.shields.io/nuget/dt/Gleeman.JwtGenerator.svg)](https://www.nuget.org/packages/Gleeman.JwtGenerator/) |
 | `Gleeman.EffectiveValidator` | [![NuGet](https://img.shields.io/nuget/v/Gleeman.EffectiveValidator.svg)](https://www.nuget.org/packages/Gleeman.EffectiveValidator) | [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveValidator.svg)](https://www.nuget.org/packages/Gleeman.EffectiveValidator) |
 | `Gleeman.EffectiveLogger` | [![NuGet](https://img.shields.io/nuget/v/Gleeman.EffectiveLogger.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger) | [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger) |
 
