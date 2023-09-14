@@ -1,13 +1,16 @@
 # Ozan Lütfü Akaydın
 
-[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="30"/>][Twitter]
-[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30"/>][Linkedin]
-
+[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="40"/>][Twitter]
+[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40"/>][Linkedin]
 <br>
 <hr>
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,jquery,sqlite,postgres,mysql,mongodb,redis,rabbitmq,postman,git,docker,visualstudio,vscode&perline=15)](https://skillicons.dev)
+<br>
+<hr>
 
-## <u>Packages</u>
+## Packages
 | Package |  Version | Popularity |
 | ------- | ----- | ----- |
 | <a href="https://github.com/oznakdn/JwtGenerator">`Gleeman.JwtGenerator`</a> | [![NuGet](https://img.shields.io/nuget/v/JwtProducer.svg)](https://www.nuget.org/packages/Gleeman.JwtGenerator/) | [![Nuget](https://img.shields.io/nuget/dt/Gleeman.JwtGenerator.svg)](https://www.nuget.org/packages/Gleeman.JwtGenerator/) |
