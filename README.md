@@ -1,7 +1,5 @@
 # Ozan Lütfü Akaydın
 
-## Contact
-
 [<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="30"/>][Twitter]
 [<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30"/>][Linkedin]
 
