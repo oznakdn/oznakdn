@@ -1,7 +1,14 @@
 # Ozan Lütfü Akaydın
 
-[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="40"/>][Twitter]
-[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40"/>][Linkedin]
+<p align="start">
+  <a href="https://www.linkedin.com/in/ozan-l%C3%BCtf%C3%BC-akaydin/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+ <a href="https://twitter.com/OzanAkaydin29">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
 <br>
 <hr>
 
