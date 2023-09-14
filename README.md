@@ -7,9 +7,6 @@
  <a href="https://twitter.com/OzanAkaydin29">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-   <a href="https://twitter.com/OzanAkaydin29">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
 </p>
 
 <hr>
