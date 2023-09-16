@@ -17,11 +17,11 @@
 <hr>
 
 ## Packages
-| Package |  Popularity |
-| ------- | ----------  |
-| <a href="https://github.com/oznakdn/JwtGenerator">`Gleeman.JwtGenerator`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.JwtGenerator.svg)](https://www.nuget.org/packages/Gleeman.JwtGenerator/) |
-| <a href="https://github.com/oznakdn/EffectiveValidator">`Gleeman.EffectiveValidator`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveValidator.svg)](https://www.nuget.org/packages/Gleeman.EffectiveValidator) |
-| <a href="https://github.com/oznakdn/EffectiveLogger">`Gleeman.EffectiveLogger`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger) |
+| Package |  Popularity | Dotnet Cli
+| ------- | ----------  | ----------
+| <a href="https://github.com/oznakdn/JwtGenerator">`Gleeman.JwtGenerator`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.JwtGenerator.svg)](https://www.nuget.org/packages/Gleeman.JwtGenerator/) | > dotnet add package Gleeman.JwtGenerator --version 1.0.1
+| <a href="https://github.com/oznakdn/EffectiveValidator">`Gleeman.EffectiveValidator`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveValidator.svg)](https://www.nuget.org/packages/Gleeman.EffectiveValidator) | > dotnet add package Gleeman.EffectiveValidator --version 1.0.0
+| <a href="https://github.com/oznakdn/EffectiveLogger">`Gleeman.EffectiveLogger`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger) | > dotnet add package Gleeman.EffectiveLogger --version 1.0.0
 
 <hr>
 
