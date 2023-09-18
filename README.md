@@ -22,6 +22,9 @@
 | <a href="https://github.com/oznakdn/JwtGenerator">`Gleeman.JwtGenerator`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.JwtGenerator.svg)](https://www.nuget.org/packages/Gleeman.JwtGenerator/) |
 | <a href="https://github.com/oznakdn/EffectiveValidator">`Gleeman.EffectiveValidator`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveValidator.svg)](https://www.nuget.org/packages/Gleeman.EffectiveValidator) | 
 | <a href="https://github.com/oznakdn/EffectiveLogger">`Gleeman.EffectiveLogger`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger) | 
+| <a href="https://github.com/oznakdn/EffectiveLogger">`Gleeman.EffectiveLogger.SQLite`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.SQLite.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger.SQLite/) | 
+| <a href="https://github.com/oznakdn/EffectiveLogger">`Gleeman.EffectiveLogger.MSSqlServer`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.MSSqlServer.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger.MSSqlServer/) | 
+
 <hr>
 
 ## GitHub Stats
