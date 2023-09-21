@@ -17,7 +17,7 @@
 <hr>
 
 ## Packages
-| Package Repo |  Nuget |
+| Repo |  Nuget |
 | ------- | ----------  |
 | <a href="https://github.com/oznakdn/JwtGenerator">`Gleeman.JwtGenerator`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.JwtGenerator.svg)](https://www.nuget.org/packages/Gleeman.JwtGenerator/) |
 | <a href="https://github.com/oznakdn/EffectiveValidator">`Gleeman.EffectiveValidator`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveValidator.svg)](https://www.nuget.org/packages/Gleeman.EffectiveValidator) | 
