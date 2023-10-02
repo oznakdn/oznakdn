@@ -28,6 +28,8 @@
 | <a href="https://github.com/oznakdn/EffectiveLogger">`Gleeman.EffectiveLogger.MSSqlServer`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.MSSqlServer.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger.MSSqlServer/) | 
 | <a href="https://github.com/oznakdn/EffectiveLogger">`Gleeman.EffectiveLogger.PostgreSQL`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.PostgreSQL.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger.PostgreSQL/) | 
 | <a href="https://github.com/oznakdn/EffectiveLogger">`Gleeman.EffectiveLogger.MySQL`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.MySQL.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger.MySQL/) | 
+| <a href="https://github.com/oznakdn/EffectiveLoggerMongoDB">`Gleeman.EffectiveLogger.MongoDB`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.MongoDB.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger.MongoDB/) | 
+
 
 
 
