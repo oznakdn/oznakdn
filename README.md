@@ -17,6 +17,7 @@
 <hr>
 
 ## Packages
+[![Nuget](https://img.shields.io/badge/NuGet%20Downloads-5M-brightgreen)](https://www.nuget.org/profiles/oznakdn) [![Nuget](https://img.shields.io/nuget/dt/MyTested.WebApi?label=Best%20NuGet%20Package)](https://www.nuget.org/profiles/oznakdn) 
 | Repo |  Nuget | Current Version
 | ------- | ----------  |---------
 | <a href="https://github.com/oznakdn/JwtGenerator">`Gleeman.JwtGenerator`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.JwtGenerator.svg)](https://www.nuget.org/packages/Gleeman.JwtGenerator/) | [![NuGet](https://img.shields.io/nuget/v/Gleeman.JwtGenerator.svg)](https://www.nuget.org/packages/Gleeman.JwtGenerator) |
