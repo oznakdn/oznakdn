@@ -1,13 +1,8 @@
 # Ozan Lütfü Akaydın
 
-<p align="start">
-  <a href="https://www.linkedin.com/in/ozan-l%C3%BCtf%C3%BC-akaydin/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
- <a href="https://twitter.com/OzanAkaydin29">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
+## Contact
+  <a href="https://www.linkedin.com/in/ozan-l%C3%BCtf%C3%BC-akaydin/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+ <a href="https://twitter.com/OzanAkaydin29"><img src="https://skillicons.dev/icons?i=twitter" /> </a>
 
 <hr>
 
