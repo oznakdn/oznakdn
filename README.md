@@ -12,12 +12,14 @@
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-fff?style=flat&logo=.net&logoColor=blue)
 ![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-fff?style=flat&logo=Microsoft&logoColor=0078D7)
 ![SignalR](https://img.shields.io/badge/-SignalR-fff?style=flat&logo=signalr&logoColor=blue)
-![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
+<!--
+[![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
-![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=blue)
+![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=blue)](url)
 <br>
+-->
 <hr>
 
 ## Packages
