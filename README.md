@@ -7,11 +7,8 @@
 <hr>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite,postgres,mysql,mongodb,postman,git,docker,visualstudio,vscode&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,bootstrap,html,sqlite,postgres,mysql,mongodb,postman,rabbitmq,redis,git,docker,visualstudio,vscode&perline=50)](https://skillicons.dev)
 <br>
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-fff?style=flat&logo=.net&logoColor=blue)
-![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-fff?style=flat&logo=Microsoft&logoColor=0078D7)
-![SignalR](https://img.shields.io/badge/-SignalR-fff?style=flat&logo=signalr&logoColor=blue)
 <!--
 [![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
