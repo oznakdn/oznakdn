@@ -41,7 +41,9 @@
 | <a href="https://github.com/oznakdn/EffectiveLoggerMongoDB">`Gleeman.EffectiveLogger.MongoDB`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.MongoDB.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger.MongoDB/) |  [![NuGet](https://img.shields.io/nuget/v/Gleeman.EffectiveLogger.MongoDB.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger.MongoDB) |
 
 
+<hr>
 
+![](https://komarev.com/ghpvc/?username=oznakdn&color=blue)
 
 <hr>
 
