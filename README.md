@@ -7,7 +7,7 @@
 <hr>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,bootstrap,html,sqlite,postgres,mysql,mongodb,postman,rabbitmq,redis,git,docker,visualstudio,vscode&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,bootstrap,html,sqlite,postgres,mysql,mongodb,postman,git,docker,visualstudio,vscode&perline=50)](https://skillicons.dev)
 <br>
 <!--
 [![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
