@@ -1,9 +1,3 @@
-## Contact
-  <a href="https://www.linkedin.com/in/ozan-l%C3%BCtf%C3%BC-akaydin/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
- <a href="https://twitter.com/OzanAkaydin29"><img src="https://skillicons.dev/icons?i=twitter" /> </a>
-
-<hr>
-
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,bootstrap,html,sqlite,postgres,mysql,mongodb,redis,kafka,rabbitmq,graphql,postman,git,docker,visualstudio,vscode&perline=50)](https://skillicons.dev)
 <br>
