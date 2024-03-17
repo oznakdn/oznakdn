@@ -11,7 +11,7 @@
 -->
 <hr>
 
-## Packages
+## Nuget Packages
 | Repo |  Nuget | Current Version
 | ------- | ----------  |---------
 | <a href="https://github.com/oznakdn/JwtGenerator">`Gleeman.JwtGenerator`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.JwtGenerator.svg)](https://www.nuget.org/packages/Gleeman.JwtGenerator/) | [![NuGet](https://img.shields.io/nuget/v/Gleeman.JwtGenerator.svg)](https://www.nuget.org/packages/Gleeman.JwtGenerator) |
