@@ -1,5 +1,5 @@
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,bootstrap,sqlite,postgres,mysql,mongodb,redis,kafka,rabbitmq,graphql,postman,git,docker,visualstudio,vscode&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,jquery,html,bootstrap,sqlite,postgres,mysql,mongodb,redis,kafka,rabbitmq,graphql,postman,git,docker,visualstudio,vscode&perline=50)](https://skillicons.dev)
 <br>
 <!--
 [![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
