@@ -124,14 +124,12 @@
 
 ![](https://komarev.com/ghpvc/?username=oznakdn&color=blue)
 
-<!--
 
 <a href="https://github.com/oznakdn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oznakdn&show_icons=true&theme=shades-of-purple&count_private=true" alt="JasonTaylorDev's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznakdn&theme=shades-of-purple&layout=compact" 
     alt="JasonTaylorDev GitHub Top Languages" />
 </a>
--->
 
 
 
