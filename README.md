@@ -25,14 +25,11 @@
 </table>
 
 
-
-
 <!--
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,jquery,html,bootstrap,sqlite,postgres,mysql,mongodb,redis,kafka,rabbitmq,graphql,postman,git,docker,visualstudio,vscode&perline=50)](https://skillicons.dev)
 <br>
 -->
 
-<hr>
 
 ## Packages
 | Repo |  Nuget | Current Version
@@ -45,9 +42,6 @@
 | <a href="https://github.com/oznakdn/EffectiveLogger">`Gleeman.EffectiveLogger`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger/) | [![NuGet](https://img.shields.io/nuget/v/Gleeman.EffectiveLogger.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger)
 | <a href="https://github.com/oznakdn/MongoIdentity">`Gleeman.AspNetCore.MongoIdentity`</a> |  [![Nuget](https://img.shields.io/nuget/dt/Gleeman.AspNetCore.MongoIdentity.svg)](https://www.nuget.org/packages/Gleeman.AspNetCore.MongoIdentity/) | [![NuGet](https://img.shields.io/nuget/v/Gleeman.AspNetCore.MongoIdentity.svg)](https://www.nuget.org/packages/Gleeman.AspNetCore.MongoIdentity/) 
 
-
-
-<hr>
 
 ## GitHub Stats
 
