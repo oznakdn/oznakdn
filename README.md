@@ -1,6 +1,6 @@
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,jquery,bootstrap,sqlite,postgres,mysql,mongodb,redis,kafka,rabbitmq,graphql,postman,git,docker,visualstudio,vscode&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,jquery,bootstrap,sqlite,postgres,mysql,mongodb,redis,kafka,rabbitmq,elasticsearch,postman,git,docker,visualstudio,vscode&perline=50)](https://skillicons.dev)
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code>
